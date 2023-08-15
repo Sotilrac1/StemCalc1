@@ -6,7 +6,7 @@ export default function NavBar() {
       </a>
       <ul className="active">
         <li>
-          <a href="/calc" className="menu-item">
+          <a href="/calculator" className="menu-item">
             Calculator
           </a>
         </li>
