@@ -30,6 +30,7 @@
 }
 .nav li.active{
     background-color: white;
+    color: black;
 }
 .nav li:hover{
     background-color: rgb(212, 209, 209);
