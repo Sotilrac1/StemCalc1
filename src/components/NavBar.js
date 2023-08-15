@@ -4,7 +4,7 @@ export default function NavBar() {
       <a href="/" className="site-title">
         Stem Calc
       </a>
-      <ul>
+      <ul className="active">
         <li>
           <a href="/calc" className="menu-item">
             Calculator
