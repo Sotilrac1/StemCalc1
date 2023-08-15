@@ -1,4 +1,4 @@
-export default function Home(){
+export default function Calculator(){
     return (
             <div>
                 <h1>Calculator</h1>
