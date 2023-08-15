@@ -1,9 +1,8 @@
-function NavBar() {
+export default function NavBar() {
   return (
     <nav className="nav">
       <a href="/" className="site-title">
-        {" "}
-        Stem Calc{" "}
+        Stem Calc
       </a>
       <ul>
         <li>
@@ -21,4 +20,4 @@ function NavBar() {
   );
 }
 
-export default NavBar;
+//export default NavBar;
